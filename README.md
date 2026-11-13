@@ -39,6 +39,14 @@ Question ──► Query embedding ──────────────┤
                                   Groq answer (optional)
 ```
 
+### Embedding and retrieval
+
+![Knowledge base, document chunks, embedding model, vector database, and retrieved documents](assets/embedding-retrieval-flow.png)
+
+### End-to-end RAG pipeline
+
+![User query retrieval flow from PDF, CSV, and TXT sources through a retriever and LLM to a response](assets/rag-pipeline.png)
+
 ## Quick start
 
 ### 1. Install dependencies
